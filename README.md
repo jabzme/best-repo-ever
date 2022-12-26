@@ -1,2 +1,3 @@
 # best-repo-ever
-tghis is my first git hekllo git
+hello this is my first commit
+
